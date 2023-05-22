@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Lena 🐙</h1>
 <h3 align="center">Full-Stack Developer with a Background in Marketing, Communications and Philosophy</h3>
 
+– 🛠 Currently working on: **[Friend Reminder app](https://github.com/hapalochlena/friend-reminder-app)**
+
 - 🌱 I’m currently learning: **Node.js, Express.js, TDD, deployment with AWS and Serverless, GitHub Actions pipeline**
 
 - 💬 Ask me about: **effectively communicating your tech stuff to non-techies**
