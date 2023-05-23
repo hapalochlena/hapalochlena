@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **effectively communicating your tech stuff to non-techies**
 
-- 📫 How to reach me: **lena.schneider407@gmail.com**
+- 📫 How to reach me: lena.schneider407@gmail.com
 
 - 📄 Know about my experiences: **[Lena's CV](https://drive.google.com/file/d/1-6bqn-qym7_tdguyA2CAvtUfp0x_M337/view?usp=sharing)**
 
