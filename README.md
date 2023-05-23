@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Lena 🐙</h1>
-<h3 align="center">Full-Stack Developer with a Background in Marketing, Communications and Philosophy</h3>
+<h3 align="center">Full-Stack Developer with a Backend Focus</h3>
+
+🎓 Background in Marketing, Communications and Philosophy.
 
 - 🛠 Currently working on: **[Friend Reminder app](https://github.com/hapalochlena/friend-reminder-app)**
 
